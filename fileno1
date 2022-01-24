@@ -1,1 +1,23 @@
+hey guys i believe that there is a need here for 
+us to re-architect our backend with new tooling 
+and applications that we will use as    LMS (
+learning management system ) and CMS( contend 
+management system).
+here the goal for us now it is having these two
+new apps to allow our customers or any end-users
+to be able create his own learning management
+sytem so that he or they can learn more efficiently so
+they would be powered to make their layout and load 
+the way they like.
+the CMS comes in to the picture which will 
+also be a backend application that will allow
+users to users to do a lot of WRITING OPERATIONS 
+on the database so they would be able upload
+their own videos and content on the app or website.
+they will also be able to read articles written 
+by saviors of the field aligned with their interests. so
+this will emcompasses a lot of READ ONLY OPERATIONS 
+on the READ REPLICA database so that will take off the 
+overhead on the our PRIMARY DATABASE.
+
 I am adding a second item here on this second file

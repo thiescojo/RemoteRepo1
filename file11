@@ -1,3 +1,11 @@
+we will also need multi az for disaster recovery 
+cuz we will some kind backup for our data 
+in case something goes wrong with our 
+primary DB so the failover dns policy 
+woulb be seen in action to route end-users
+to a this new az where the backup DB is 
+located.
+
 this is a new change on the repo i just cloned from Github
 Just added a new line
 adding a third line
